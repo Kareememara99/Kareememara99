@@ -54,13 +54,6 @@ I enjoy learning by building projects and applying what I study to real-world pr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/>
 </p>
 
-**Data Engineering:**
-`SQL` `ETL` `ELT` `Data Pipelines` `Data Cleaning` `Databases` `Microsoft Azure`
-
-### 🧠 Computer Science Fundamentals
-
-`Object-Oriented Programming` • `Data Structures` • `Algorithms`
-
 ### 🔧 Tools
 
 <p align="left">
