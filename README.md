@@ -63,12 +63,10 @@ I enjoy learning by building projects and applying what I study to real-world pr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
 </p>
 
-
-
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/kareem-emara-83b81a303/">
     <img src="https://img.shields.io/badge/LinkedIn-Kareem%20Emara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Kareememara2024@gmail.com">
